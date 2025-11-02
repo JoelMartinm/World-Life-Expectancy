@@ -162,25 +162,6 @@ WHERE Country LIKE '%United%';
 - Data formatting with ROUND()
 - Rolling aggregations for temporal analysis
 
----
-
-## Step 4 — Power BI Visualization
-The cleaned dataset was visualized in Power BI to demonstrate analytical findings through interactive dashboards.
-
-### Dashboard Highlights
-- Average Life Expectancy by Year and Country
-- GDP vs Life Expectancy Correlation
-- Developed vs Developing Country Comparison
-- BMI vs Life Expectancy Relationship
-- Rolling Mortality Trend Analysis
-
-**Power BI Features**
-- Interactive slicers for country, region, and year
-- Dynamic filters for GDP and Status
-- Tooltips displaying statistical details
-- Color-coded metrics for clearer interpretation
-
-**Power BI File:** `/PowerBI/World_Life_Expectancy_Dashboard.pbix`
 
 ---
 
